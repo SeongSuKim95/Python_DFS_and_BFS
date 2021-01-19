@@ -1,5 +1,5 @@
 import time
-
+#음료수 얼려먹기
 N, M = map(int,input().split())
 #2 dimension array intializing
 #map = [[] for _ in range(N)]
